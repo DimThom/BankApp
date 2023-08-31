@@ -28,7 +28,7 @@ BankApp is a desktop application that allows the management of bank accounts by 
 
 ## License
 
-This application is licensed under the MIT [LICENSE](LICENSE), allowing free use, distribution, and modification of the code.
+This application is licensed under the [MIT License](LICENSE), allowing free use, distribution, and modification of the code.
 
 ## Contact
 
